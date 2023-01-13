@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to **new challenges**
 
-- 💬 Ask me about **Backend development**
+- 💬 Ask me about **Web development**
 
 - 📫 How to reach me **giseeyoo@gmail.com**
 
